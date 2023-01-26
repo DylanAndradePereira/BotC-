@@ -1,0 +1,15 @@
+C:\Users\Dylan\Desktop\Dev\BotC\bin\Debug\net7.0\BotC.exe
+C:\Users\Dylan\Desktop\Dev\BotC\bin\Debug\net7.0\BotC.deps.json
+C:\Users\Dylan\Desktop\Dev\BotC\bin\Debug\net7.0\BotC.runtimeconfig.json
+C:\Users\Dylan\Desktop\Dev\BotC\bin\Debug\net7.0\BotC.dll
+C:\Users\Dylan\Desktop\Dev\BotC\bin\Debug\net7.0\BotC.pdb
+C:\Users\Dylan\Desktop\Dev\BotC\obj\Debug\net7.0\BotC.csproj.AssemblyReference.cache
+C:\Users\Dylan\Desktop\Dev\BotC\obj\Debug\net7.0\BotC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\Desktop\Dev\BotC\obj\Debug\net7.0\BotC.AssemblyInfoInputs.cache
+C:\Users\Dylan\Desktop\Dev\BotC\obj\Debug\net7.0\BotC.AssemblyInfo.cs
+C:\Users\Dylan\Desktop\Dev\BotC\obj\Debug\net7.0\BotC.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\Dev\BotC\obj\Debug\net7.0\BotC.dll
+C:\Users\Dylan\Desktop\Dev\BotC\obj\Debug\net7.0\refint\BotC.dll
+C:\Users\Dylan\Desktop\Dev\BotC\obj\Debug\net7.0\BotC.pdb
+C:\Users\Dylan\Desktop\Dev\BotC\obj\Debug\net7.0\BotC.genruntimeconfig.cache
+C:\Users\Dylan\Desktop\Dev\BotC\obj\Debug\net7.0\ref\BotC.dll
